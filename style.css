@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 75%;
     margin: auto;
     overflow: hidden;
 }
@@ -31,7 +31,7 @@ ul {
 
 #header li {
     display: inline;
-    padding: 0 20px;
+    padding: 0 24px;
     font-family: "Audiowide", sans-serif;
 }
 
@@ -45,7 +45,7 @@ ul {
 }
 
 #main {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url("image/banner.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url("/image/banner.jpg");
     background-size: cover;
     text-align: center;
     color: white;
@@ -53,13 +53,13 @@ ul {
 }
 
 #main h1 {
-    font-size: 60px;
+    font-size: 50px;
     margin: 200px 0 10px;
     font-family: "Audiowide", sans-serif;
 }
 
 #main p {
-    font-size: 30px;
+    font-size: 24px;
     font-family: "Audiowide", sans-serif;
 }
 
